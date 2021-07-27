@@ -207,8 +207,8 @@ hr {
     }
 
     .summary {
-	float: left;
-        max-width: 100%;
+	display: inline-block;
+        flex: 1 1 100%;
     }
 	
     .dev-icons{
